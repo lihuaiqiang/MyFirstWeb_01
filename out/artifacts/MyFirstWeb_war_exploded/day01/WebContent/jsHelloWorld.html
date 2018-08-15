@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HelloWorld</title>
+
+    <!-- js代码写在script标签中 -->
+    <script>
+        <!-- 借助 window.onload 事件，在dom节点加载完成之后执行程序代码 -->
+        window.onload = function () {
+            var elementById = document.getElementById("btn01");
+            elementById.onclick = function () {
+                alert("hello ");
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <button id="btn01">sayHello</button>
+</body>
+</html>

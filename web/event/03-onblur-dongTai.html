@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>03-onblur-动态</title>
+    <script type="text/javascript">
+        window.onload = function () {
+            //1、先获取标签对象
+            var elementById = document.getElementById("username");
+            //2、通过：标签对象.事件名 = function() {}
+            elementById.onblur = function () {
+                alert("动态注册的onblur事件。。。")
+            }
+        }
+    </script>
+</head>
+<body>
+    用户名：<input type="text" placeholder="请输入用户名" value="" id="username"/><br/>
+    密  码：<input type="password" placeholder="请输入密码" value=""/>
+</body>
+</html>

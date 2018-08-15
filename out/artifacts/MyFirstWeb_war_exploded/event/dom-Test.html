@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>11111</title>
+    <script type="text/javascript">
+        //alert("页面加载完成之前");
+        //  查找标签对象的方法，一定要在页面加载完成之后执行。才能查找到标签对象。
+        // 	ar usernameObj = document.getElementById("username");
+        // 	alert(usernameObj);
+
+        //我希望当点击提交按钮的时候，我们检查用户名是否合法？
+        window.onload = function() {
+            //alert("页面加载完成之后");
+            // 通过id属性值，查找指定的标签对象
+            var usernameObj = document.getElementById("username");
+            //1、元素节点
+            //nodeName表示节点名
+            alert("节点名称"+usernameObj.nodeName);
+            alert("属性id值"+usernameObj.id);
+            alert("属性type值"+usernameObj.type);
+            alert("属性value值"+usernameObj.value);
+            //nodeType表示节点类型
+            //alert(usernameObj.nodeType);
+            //nodeValue表示节点值
+            //alert(usernameObj.nodeValue);
+
+            //2、属性节点
+            var attNode = usernameObj.getAttributeNode("checked");
+//            alert(attNode);
+//            alert(attNode.nodeName);//type
+//            alert(attNode.nodeType);//2
+//            alert(attNode.nodeValue);//text
+//            alert(usernameObj.value);
+
+
+        }
+
+        function butFun() {
+// 				alert("按钮被点击");
+            // 通过id属性值，查找指定的标签对象
+            var usernameObj = document.getElementById("username");
+// 				alert(usernameObj.value);
+            // 用户名必须由字母，数字，下划线组成。并且长度为5-16位组成。
+// 				就必须要使用正则表达式
+            var str = usernameObj.value;
+// 				alert(str);
+            // 表示要检查，字符串在是否包含e字母
+// 				var patt = new RegExp("e");
+            // [] 表示查找任意一个字母
+// 				var patt = new RegExp("[abcdef]");
+            // [0-9]表示查找任意的数字
+// 				var patt = new RegExp("[0-9]");
+            // 表示查找所有小写字母a到z
+// 				var patt = new RegExp("[a-z]");
+            // 表示查找所有大写字母a到z
+// 				var patt = new RegExp("[A-Z]");
+            // 表示查找所有英文字母
+// 				 var patt = new RegExp("[A-z]");
+
+            // \w表示查找所有小写字母，大写字母，数字，以及下划线
+// 				var patt = new RegExp("\\w");
+// 				alert(patt);
+            // 正则对象的第二种写法
+// 				var patt = /\w/;
+// 				alert(patt);
+
+            // + 号表示匹配拥有至少一个
+// 				var patt = /e+/;
+            // * 表示匹配零或者多个
+// 				var patt = /e*/;
+            // ? 表示匹配一个或者零个
+// 				var patt = /e?/;
+// 				// n{X} 表示匹配X个n
+// 				var patt = /e{2}/;
+// 				n{X,Y} 表示匹配最少X个，最多Y个
+// 				var patt = /e{2,3}/;
+// 				n{X,} 表示匹配至少X个n
+// 				var patt = /e{2,}/;
+// 				n$ 表示必须以结尾
+// 				var patt = /e$/;
+// 				^n 表示必须以开始
+// 				var patt = /^a/;
+            // 用户名必须由字母，数字，下划线组成。并且长度为5-16位组成。
+            var patt = /^\w{5,16}$/;
+            // 匹配结果
+            var isOK = patt.test(str);
+
+            // 我们要操作一个标签对象，步骤分为两步：
+            // 1.获取标签对象
+            var spanObj = document.getElementById("usernameSpan");
+// 				alert(spanObj.innerHTML);
+            // 2.修改标签对象的属性
+            // innerHTML 表示起始标签和结束标签里的内容
+            if (isOK) {
+                spanObj.innerHTML = "";
+                spanObj.innerHTML = "<img width=\"15\" height=\"15\" src=\"right.png\" />";
+            } else {
+// 					spanObj.innerHTML = "用户名不合法";
+                spanObj.innerHTML = "<img width=\"15\" height=\"15\" src=\"wrong.png\" />";
+            }
+        }
+    </script>
+</head>
+<body>
+    用户名：<input id="username" type="text" value="wzg168" checked="checked"/>
+    <span id="usernameSpan"></span>
+    <button type="button" onclick="butFun()">提交</button>
+</body>
+</html>

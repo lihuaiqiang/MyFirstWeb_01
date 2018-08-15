@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>onload事件</title>
+    <script type="text/javascript">
+        //静态注册：就是在
+        function onloadFun() {
+            alert("页面加载完成，静态注册onload事件。。。");
+        }
+        alert("页面还未加载");
+
+    </script>
+</head>
+<body onload="onloadFun();">
+    <button>按钮</button>
+</body>
+</html>

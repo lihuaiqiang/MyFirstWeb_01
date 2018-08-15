@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>01-getElementById方法</title>
+    <script type="text/javascript">
+        window.onload = function(){
+            alert("页面加载完成之后")
+            //1、通过id属性值，查找指定的标签对象
+            var elementById = document.getElementById("username");
+            alert(elementById);
+
+        }
+        function btnFun() {
+            alert("提交按钮被点击");
+            var elementById = document.getElementById("username");
+            alert(elementById.value);
+        }
+    </script>
+</head>
+<body>
+    用户名：<input id="username" type="text" value="lihuaiqiang"/><br>
+    <input type="button" value="提交" onclick="btnFun()">
+    <button type="submit">提交</button>//这个按钮是无效的，因为还没有绑定点击事件
+</body>
+</html>

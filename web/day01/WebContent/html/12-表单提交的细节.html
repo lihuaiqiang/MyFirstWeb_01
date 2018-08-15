@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="pragma" content="no-cache" />
+		<meta http-equiv="cache-control" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<body>
+	<center>
+		<h2>用户注册</h2>
+		<!-- 
+			action 表单提交到服务器的地址
+			method 表示表单提交的方式 	GET POST
+			
+			表单项的值没有提交到服务器的两个原因：
+			1、表单在提交的时候，只有表单项，有name属性的时候。数据才会被提交到服务器。
+			2、是没有包含在提交的form里
+			
+			当get请求的时候，浏览器地址栏的地址是action属性值?name=value&name=value
+			http://127.0.0.1:8080/?hi=hiValue&username=wzg168&password=123456&repwd=123457&sex=boy&hobby=C&hobby=java&hobby=php&desc=asdfasdfa
+			
+			get请求适合提交小量的数据，并且安全性不高
+			
+			get请求：
+			1.不安全
+			2.它有长度的限制   
+			
+			Post请求的，地提交的时候，浏览器地址栏，只有action的值
+			POST请求的特点：
+			1.安全
+			2.提交大量的数据
+			
+			文件上传，method必须为post
+		 -->
+			<input name="hi" value="hiValue" type="hidden" />
+		<form action="http://127.0.0.1:8080" method="post">
+			<table>
+				<tr>
+					<td>用户名称:</td>
+					<td><input name="username" type="text" value="" placeholder="请输入用户名"/></td>
+				</tr>
+				<tr>
+					<td>密　　码：</td>
+					<td><input name="password" type="password" value="abc"/></td>
+				</tr>
+				<tr>
+					<td>确认密码：</td>
+					<td><input name="repwd" type="password" /></td>
+				</tr>
+				<tr>
+					<td>性别 ：</td>
+					<td>
+						<input name="sex" type="radio" checked="checked" value="boy"/>男
+						<input name="sex" type="radio" value="girl"/>女
+					</td>
+				</tr>
+				<tr>
+					<td>爱好：</td>
+					<td>
+						<input name="hobby" type="checkbox" checked="checked" value="C"/>C
+						<input name="hobby" type="checkbox" value="cpp"/>C++
+						<input name="hobby" type="checkbox" checked="checked" value="java"/>Java
+						<input name="hobby" type="checkbox" checked="checked" value="php"/>PHP
+						<input name="hobby" type="checkbox" value="lua"/>Lua					
+					</td>
+				</tr>
+				<tr>
+					<td>选择国家：</td>
+					<td>
+						<select>
+							<option value="none">--请选择国家--</option>
+							<option value="cn" selected="selected">中国</option>
+							<option value="usa">美国</option>
+							<option value="p">小日本</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td>自我评价：</td>
+					<td>
+						<textarea name="desc" rows="10" cols="30">asdfasdfa</textarea>
+					</td>
+				</tr>
+				<tr align="center">
+					<td><input type="submit" value="注 册"/></td>
+					<td><input type="reset" value="重 置"/></td>
+				</tr>
+			</table>
+		</form>
+	</center>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

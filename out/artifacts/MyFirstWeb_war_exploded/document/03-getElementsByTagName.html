@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>03-getElementByTagName</title>
+    <script type="text/javascript">
+        //当页面中你要查找的标签对象有id属性的时候，优先使用getElementById查找
+        //其次.如果有name属性的值，使用getElementsByName方法来查找
+        //最后都没有的情况下，使用getElementsByTagName方法通过标签名查找
+        window.onload = function() {
+            // 通过标签名查找标签对象的集合
+            var checkboxObjs = document.getElementsByTagName("input");
+            // 这个集合的操作也是跟数组一样
+//            alert(checkboxObjs[0].nodeName);
+//            alert(checkboxObjs[0].nodeValue);
+//            alert(checkboxObjs[0].nodeType);
+        }
+
+        //全选
+        function checkAll() {
+            // 1、先获取操作的标签对象
+            var checkboxObjs = document.getElementsByTagName("input");
+            //alert(checkboxObjs);
+            //alert(checkboxObjs.length);
+            // 2.修改标签对象的属性
+            for (var i = 0; i < checkboxObjs.length; i++) {
+                // 修改每个标签对象的checked属性为true
+                checkboxObjs[i].checked = true;
+            }
+        }
+        
+        //全不选
+        function checkNotAll() {
+            //1、先获取要操作的标签的对象
+            var elementsByTagName = document.getElementsByTagName("input");
+            //alert(elementsByTagName);
+            //alert(elementsByTagName.length);
+            for (var i = 0;i < elementsByTagName.length;i++) {
+                elementsByTagName[i].checked = false;
+            }
+        }
+
+        //反选
+        function fanXuan(){
+            //1、先获取标签对象
+            var elementsByTagName = document.getElementsByTagName("input");
+            //alert(elementsByTagName);
+            //alert(elementsByTagName.length);
+            for (var i = 0;i < elementsByTagName.length;i++) {
+                elementsByTagName[i].checked = !elementsByTagName[i].checked;
+            }
+        }
+    </script>
+</head>
+<body>
+兴趣爱好：
+<input type="checkbox" value="1"/>学习
+<input type="checkbox" value="2"/>看小明
+<input type="checkbox" value="3"/>看大片
+<input type="checkbox" value="4"/>睡觉
+<input type="checkbox" value="5" checked=""/>java<br/>
+<button onclick="checkAll()">全选</button>
+<button onclick="checkNotAll();">全部不选</button>
+<input type="button" onclick="fanXuan();" value="反选"/>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<meta http-equiv="pragma" content="no-cache" />
+		<meta http-equiv="cache-control" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<body>
+	<!-- 
+		需求1:创建一个个人信息注册的表单界面。包含用户名，密码，确认密码。性别（单选），性趣爱好（多选），国籍（下拉列表）。
+隐藏域，自我评价（多行文本域）。重置，提交。
+
+		input type=text 表示这是一个文本输入框  value属性是文本框的默认值
+		input type=password 表示密码输入框
+		input type=radio 表示单选框 name属性可以给单选框分组。	checked="checked"表示默认选中
+		input type=checkbox 表示复选框  checked="checked"表示默认选中
+		input type=submit表示 提交按钮 	value属性是修改按钮默认显示的文本
+		input type=reset表示重置按钮	alue属性是修改按钮默认显示的文本
+		input type=file 表示文件上传
+		input type=hidden 这是隐藏域对象
+		
+		select 表示下拉列表标签
+		option 标签表示下拉列表中的每一项	selected="selected"表示默认选中
+		
+		textarea 表示多行文本输入框 rows 属性设置高度 cols属性设置宽度
+ -->
+	
+	<form action="">
+		<input type="hidden" />
+		用户名称：<input type="text" value="" placeholder="请输入用户名"/><br/>
+		密　　码：<input type="password" value="abc"/><br/>
+		确认密码：<input type="password" /> <br/>
+		性别 ： <input name="sex" type="radio" checked="checked"/>男
+			<input name="sex" type="radio" />女<br/>
+		爱好：<input type="checkbox" checked="checked"/>C
+			<input type="checkbox" />C++
+			<input type="checkbox" checked="checked" />Java
+			<input type="checkbox" checked="checked" />PHP
+			<input type="checkbox" />Lua<br/>
+		选择国家：
+			<select>
+				<option>--请选择国家--</option>
+				<option selected="selected">中国</option>
+				<option>美国</option>
+				<option>小日本</option>
+			</select><br/>
+		自我评价：<textarea rows="10" cols="30">asdfasdfa</textarea><br/>
+		<input type="submit" value="注 册"/> <input type="reset" value="重 置"/>
+	</form>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

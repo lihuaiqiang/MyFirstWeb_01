@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>02-getElementByName</title>
+    <script type="text/javascript">
+        // 页面加载完成之后
+        window.onload = function() {
+            // getElementsByName是通过name属性查找标签对象的集合
+            var hobbyObjs = document.getElementsByName("hobby");
+            // 这个集合的操作跟数组一样
+            //alert("通过标签的name属性获取标签对象："+hobbyObjs);
+            //alert(hobbyObjs.length);
+            // 集合中元素出现 的顺序 是这些标签对象在html页面中从上到下出现的顺序
+            //alert(hobbyObjs[4].value);
+
+            var elementsByTagName = document.getElementsByTagName("input");
+            //alert("通过标签名称获取标签对象："+elementsByTagName)
+
+            //1、获取“全选”按钮标签对象
+            var btn01Obj = document.getElementById("btn01");
+            //alert(btn01Obj);
+            //2、绑定单击事件
+            btn01Obj.onclick = function () {
+                //alert("全选按钮");
+                //查找第一个兴趣的内容
+                var hobby01 = document.getElementById("hobby01");
+                //alert("innerHTML：" + hobby01.innerHTML);
+                //alert("innerText：" + hobby01.innerText);
+            }
+        }
+        // 全选功能
+        function checkAll() {
+            //操作标签对象的步骤是：
+            // 1、获取标签对象
+            var hobbyObjs = document.getElementsByName("hobby");
+            // 2、修改标签对象的属性
+            //全选只需要遍历所有的checkbox标签对象。修改checked属性值为true即可
+            var hobbyObj = hobbyObjs[2];
+            //alert("是否被选中："+hobbyObj.checked);
+            //alert("是否被选中："+hobbyObj.value);
+            hobbyObj.checked = "checked";//或者把 checked属性的值设置成true也可以：checked=true;
+            //alert("是否被选中："+hobbyObj.checked);
+            for (var i = 0; i < hobbyObjs.length; i++) {
+                var hobbyObj = hobbyObjs[i];
+                // 修改每一个标签对象的checked属性值为true
+                hobbyObj.checked = true;
+            }
+        }
+        // 全不选功能
+        function checkAllNo() {
+// 				alert(1);
+// 				操作标签对象的步骤是：
+// 				1、获取标签对象
+            var hobbyObjs = document.getElementsByName("hobby");
+// 				2、修改标签对象的属性
+            //全选只需要遍历所有的checkbox标签对象。修改checked属性值为false即可
+            for (var i = 0; i < hobbyObjs.length; i++) {
+                var hobbyObj = hobbyObjs[i];
+                // 修改每一个标签对象的checked属性值为false
+                hobbyObj.checked = false;
+            }
+        }
+
+        // 反功能
+        function checkReverse() {
+            //1.获取所有要操作的标签对象
+//            var hobbyObjs = document.getElementsByName("hobby");
+            var hobbyObjs = document.getElementsByTagName("input");
+            for (var i = 0; i < hobbyObjs.length; i++) {
+                var hobbyObj = hobbyObjs[i];
+                // 判断原来 的checked属性值，如果是true修改为false，反之亦然
+                //2.修改标签对象的属性
+// 					if (hobbyObj.checked == true) {
+// 						hobbyObj.checked = false;
+// 					} else {
+// 						hobbyObj.checked = true;
+// 					}
+                // 把原来的checked值取反
+                hobbyObj.checked = !hobbyObj.checked;
+            }
+        }
+    </script>
+</head>
+<body>
+兴趣爱好：
+<!-- input标签中只要设置了checked属性，不管是否赋值其checked属性的值都是true，若没有设置checked属性，checked属性的值就是false -->
+<input type="checkbox" value="1" checked="" id="hobby01">学习
+<input type="checkbox" value="2"/>看小明
+<input type="checkbox" value="3"/>看大片
+<input type="checkbox" value="4" checked=""/>睡觉
+<input type="checkbox" value="5"/>java<br/>
+<button id="btn01" onclick="checkAll()">全选</button>
+<button id="btn02" onclick="checkAllNo()">全不选</button>
+<button id="btn03" onclick="checkReverse()">反选</button>
+</body>
+</html>
+
+
+
+
+
+

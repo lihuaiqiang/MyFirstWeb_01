@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>3.内联框架.html</title>
+</head>
+<body>
+	3.内联框架.html
+	<br/>
+	<!-- 内联框架
+		iframe 是页面内的窗口，可以单独引入一个页面的标签
+			src 是窗口的文件路径
+			width 设置小窗口的宽度
+			height 设置小窗口的高度
+		现在我希望，通过点击一些a标签，也就是超连接，让这个小窗口，加载不同的页面内容
+		第一步，先给需要跳转的iframe标签设置一个name属性值 ，相当于给iframe起一个名字
+		第二步，设置a标签的target属性为需要跳转的iframe的name属性值
+	 -->
+	<iframe name="abc" src="09-列表标签.html" width="500" height="300"></iframe>
+	<br/>
+	<a href="1.font标签.html" target="abc">1.font标签.html</a><br/>
+	<a href="2.特殊字符.html" target="abc">2.特殊字符.html</a><br/>
+	<a href="5.img标签.html" target="abc">5.img标签.html</a><br/>
+	3.内联框架.html
+</body>
+</html>

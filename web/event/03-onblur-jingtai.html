@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>05-onblur 失去焦点事件</title>
+    <script type="text/javascript">
+        function onblurFun() {
+            alert("静态注册的失去焦点事件。。。")
+        }
+    </script>
+</head>
+<body>
+    用户名：<input type="text" placeholder="请输入用户名" value="" onblur="onblurFun();"/><br/>
+    密  码：<input type="password" placeholder="请输入密码" value=""/>
+</body>
+</html>
