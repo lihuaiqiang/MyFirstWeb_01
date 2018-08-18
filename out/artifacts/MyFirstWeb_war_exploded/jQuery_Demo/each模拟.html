@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="script/jquery-1.7.2.js"></script>
+<script type="text/javascript">
+	$(function() {
+		
+		
+		function Person() {
+			this.arr = document.getElementsByTagName("div");
+			this.each = function(fun) {
+				for (var i = 0; i < this.arr.length; i++) {
+					var item = this.arr[i];
+					item.fun = fun;
+					item.fun();
+					item.fun = null;
+				}
+			}
+		}
+		
+		var p = new Person();
+		p.each(function() {
+			alert(this.innerHTML);
+		});
+		
+		console.log("这是javaScript往控制台打印的日记");
+		console.log(p);
+		console.log(document.getElementsByTagName("div"));
+		
+	});
+	//全写
+</script>
+</head>
+<body>
+	<div>div1</div>
+	<div>div2</div>
+	<div>div3</div>
+</body>
+</html>

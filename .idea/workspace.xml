@@ -1,1001 +1,967 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-    <component name="ArtifactsWorkspaceSettings">
-        <artifacts-to-build>
-            <artifact name="MyFirstWeb:war exploded"/>
-        </artifacts-to-build>
-    </component>
-    <component name="ChangeListManager">
-        <list default="true" id="03fc0df4-3a82-4e66-a0d3-95192de0c654" name="Default" comment=""/>
-        <ignored path="$PROJECT_DIR$/out/"/>
-        <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true"/>
-        <option name="TRACKING_ENABLED" value="true"/>
-        <option name="SHOW_DIALOG" value="false"/>
-        <option name="HIGHLIGHT_CONFLICTS" value="true"/>
-        <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
-        <option name="LAST_RESOLUTION" value="IGNORE"/>
-    </component>
-    <component name="FileEditorManager">
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-            <file leaf-file-name="02-onclick-jingtai.html" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/web/event/02-onclick-jingtai.html">
-                    <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="504">
-                            <caret line="21" column="21" lean-forward="false" selection-start-line="21"
-                                   selection-start-column="21" selection-end-line="21" selection-end-column="21"/>
-                            <folding/>
-                        </state>
-                    </provider>
-                </entry>
-            </file>
-            <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-                    <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="-2304">
-                            <caret line="0" column="0" lean-forward="false" selection-start-line="0"
-                                   selection-start-column="0" selection-end-line="0" selection-end-column="0"/>
-                            <folding>
-                                <marker date="1534423496026" expanded="true" signature="47164:47177" ph="..."/>
-                            </folding>
-                        </state>
-                    </provider>
-                </entry>
-            </file>
-            <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-                    <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="120">
-                            <caret line="5" column="10" lean-forward="false" selection-start-line="5"
-                                   selection-start-column="10" selection-end-line="5" selection-end-column="10"/>
-                            <folding/>
-                        </state>
-                    </provider>
-                </entry>
-            </file>
-            <file leaf-file-name="01.基本选择器.html" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo02.选择器/01.基本选择器.html">
-                    <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="0">
-                            <caret line="0" column="0" lean-forward="false" selection-start-line="0"
-                                   selection-start-column="0" selection-end-line="0" selection-end-column="0"/>
-                            <folding/>
-                        </state>
-                    </provider>
-                </entry>
-            </file>
-            <file leaf-file-name="02-onclick-dongTai.html" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
-                    <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="264">
-                            <caret line="11" column="11" lean-forward="false" selection-start-line="11"
-                                   selection-start-column="11" selection-end-line="11" selection-end-column="11"/>
-                            <folding/>
-                        </state>
-                    </provider>
-                </entry>
-            </file>
-        </leaf>
-    </component>
-    <component name="FileTemplateManagerImpl">
-        <option name="RECENT_TEMPLATES">
-            <list>
-                <option value="JavaScript File"/>
-                <option value="HTML File"/>
-            </list>
-        </option>
-    </component>
-    <component name="Git.Settings">
-        <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$"/>
-    </component>
-    <component name="GradleLocalSettings">
-        <option name="externalProjectsViewState">
-            <projects_view/>
-        </option>
-    </component>
-    <component name="IdeDocumentHistory">
-        <option name="CHANGED_PATHS">
-            <list>
-                <option value="$PROJECT_DIR$/web/index.jsp"/>
-                <option value="$PROJECT_DIR$/web/html/array.html"/>
-                <option value="$PROJECT_DIR$/web/event/onload.html"/>
-                <option value="$PROJECT_DIR$/web/event/01-onload-动态.html"/>
-                <option value="$PROJECT_DIR$/web/event/01-onload-动态注册.html"/>
-                <option value="$PROJECT_DIR$/web/event/1.js"/>
-                <option value="$PROJECT_DIR$/web/event/01-onload-dongTai.html"/>
-                <option value="$PROJECT_DIR$/web/event/02-onclick-dongTai.html"/>
-                <option value="$PROJECT_DIR$/web/event/01-onload-jingTai.html"/>
-                <option value="$PROJECT_DIR$/web/event/03-onblur.html"/>
-                <option value="$PROJECT_DIR$/web/event/03-onblur-jingtai.html"/>
-                <option value="$PROJECT_DIR$/web/event/03-onblur-dongTai.html"/>
-                <option value="$PROJECT_DIR$/web/event/dom-Test.html"/>
-                <option value="$PROJECT_DIR$/web/document/04-dom-selectTest.html"/>
-                <option value="$PROJECT_DIR$/web/document/01-getElementById.html"/>
-                <option value="$PROJECT_DIR$/web/document/03-getElementsByTagName.html"/>
-                <option value="$PROJECT_DIR$/web/document/05-nodeAttributeAndMethod.html"/>
-                <option value="$PROJECT_DIR$/web/day01/CSS/01-CSS-And-HTML.html"/>
-                <option value="$PROJECT_DIR$/web/day01/CSS/002-css与html结合使用的第二种方式.html"/>
-                <option value="$PROJECT_DIR$/web/05.DOM查询练习/style/css.css"/>
-                <option value="$PROJECT_DIR$/web/document/02-getElementsByName.html"/>
-                <option value="$PROJECT_DIR$/web/html/02-form-test.html"/>
-                <option value="$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html"/>
-                <option value="$PROJECT_DIR$/web/day01/WebContent/01-hello.html"/>
-                <option value="$PROJECT_DIR$/web/day01/WebContent/jsHelloWorld.html"/>
-                <option value="$PROJECT_DIR$/web/event/02-onclick-jingtai.html"/>
-                <option value="$PROJECT_DIR$/.idea/workspace.xml"/>
-                <option value="$PROJECT_DIR$/.idea/vcs.xml"/>
-            </list>
-        </option>
-    </component>
-    <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER"/>
-    <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER"/>
-    <component name="JsFlowSettings">
-        <service-enabled>false</service-enabled>
-        <exe-path/>
-        <annotation-enable>false</annotation-enable>
-        <other-services-enabled>false</other-services-enabled>
-        <auto-save>true</auto-save>
-    </component>
-    <component name="JsGulpfileManager">
-        <detection-done>true</detection-done>
-        <sorting>DEFINITION_ORDER</sorting>
-    </component>
-    <component name="LogFilters">
-        <option name="FILTER_ERRORS" value="false"/>
-        <option name="FILTER_WARNINGS" value="false"/>
-        <option name="FILTER_INFO" value="true"/>
-        <option name="FILTER_DEBUG" value="true"/>
-        <option name="CUSTOM_FILTER"/>
-    </component>
-    <component name="ProjectFrameBounds" extendedState="6">
-        <option name="x" value="889"/>
-        <option name="width" value="976"/>
-        <option name="height" value="1038"/>
-    </component>
-    <component name="ProjectView">
-        <navigator currentView="ProjectPane" proportions="" version="1">
-            <flattenPackages/>
-            <showMembers/>
-            <showModules/>
-            <showLibraryContents/>
-            <hideEmptyPackages/>
-            <abbreviatePackageNames/>
-            <autoscrollToSource/>
-            <autoscrollFromSource/>
-            <sortByType/>
-            <manualOrder/>
-            <foldersAlwaysOnTop value="true"/>
-        </navigator>
-        <panes>
-            <pane id="ProjectPane">
-                <subPane>
-                    <expand>
-                        <path>
-                            <item name="MyFirstWeb_01" type="b2602c69:ProjectViewProjectNode"/>
-                            <item name="MyFirstWeb_01" type="462c0819:PsiDirectoryNode"/>
-                        </path>
-                        <path>
-                            <item name="MyFirstWeb_01" type="b2602c69:ProjectViewProjectNode"/>
-                            <item name="MyFirstWeb_01" type="462c0819:PsiDirectoryNode"/>
-                            <item name="web" type="462c0819:PsiDirectoryNode"/>
-                        </path>
-                        <path>
-                            <item name="MyFirstWeb_01" type="b2602c69:ProjectViewProjectNode"/>
-                            <item name="MyFirstWeb_01" type="462c0819:PsiDirectoryNode"/>
-                            <item name="web" type="462c0819:PsiDirectoryNode"/>
-                            <item name="jQuery_Demo" type="462c0819:PsiDirectoryNode"/>
-                        </path>
-                    </expand>
-                    <select/>
-                </subPane>
-            </pane>
-            <pane id="Scratches"/>
-            <pane id="PackagesPane"/>
-            <pane id="AndroidView"/>
-            <pane id="Scope"/>
-        </panes>
-    </component>
-    <component name="PropertiesComponent">
-        <property name="WebServerToolWindowFactoryState" value="false"/>
-        <property name="aspect.path.notification.shown" value="true"/>
-        <property name="last_opened_file_path" value="$PROJECT_DIR$/../MySecondWEB_02"/>
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager"/>
-        <property name="DefaultHtmlFileTemplate" value="HTML File"/>
-    </component>
-    <component name="RecentsManager">
-        <key name="CopyFile.RECENT_KEYS">
-            <recent name="H:\MyWebTest\MyFirstWeb_01\web\jQuery_Demo"/>
-            <recent name="H:\MyWebTest\MyFirstWeb\web"/>
-            <recent name="H:\MyWebTest\MyFirstWeb\web\day01"/>
-        </key>
-    </component>
-    <component name="RunDashboard">
-        <option name="ruleStates">
-            <list>
-                <RuleState>
-                    <option name="name" value="ConfigurationTypeDashboardGroupingRule"/>
-                </RuleState>
-                <RuleState>
-                    <option name="name" value="StatusDashboardGroupingRule"/>
-                </RuleState>
-            </list>
-        </option>
-    </component>
-    <component name="RunManager" selected="Tomcat Server.01-onload-jingTai.html">
-        <configuration name="001-CSS与html结合使用的第一种方式.html"
-                       type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local"
-                       temporary="true" APPLICATION_SERVER_NAME="Tomcat 6.0.39" ALTERNATIVE_JRE_ENABLED="true"
-                       ALTERNATIVE_JRE_PATH="1.7">
-            <option name="OPEN_IN_BROWSER_URL"
-                    value="http://localhost:8080/day01/WebContent/css/001-CSS与html结合使用的第一种方式.html"/>
-            <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0"/>
-            <option name="UPDATING_POLICY" value="restart-server"/>
-            <deployment>
-                <artifact name="MyFirstWeb:war exploded">
-                    <settings>
-                        <option name="CONTEXT_PATH" value="/"/>
-                    </settings>
-                </artifact>
-            </deployment>
-            <server-settings>
-                <option name="BASE_DIRECTORY_NAME" value="_MyFirstWeb_2"/>
-            </server-settings>
-            <predefined_log_file id="Tomcat" enabled="true"/>
-            <predefined_log_file id="Tomcat Catalina" enabled="true"/>
-            <predefined_log_file id="Tomcat Manager" enabled="false"/>
-            <predefined_log_file id="Tomcat Host Manager" enabled="false"/>
-            <predefined_log_file id="Tomcat Localhost Access" enabled="false"/>
-            <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
-            <RunnerSettings RunnerId="Debug">
-                <option name="DEBUG_PORT" value="54269"/>
-            </RunnerSettings>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <method>
-                <option name="BuildArtifacts" enabled="true">
-                    <artifact name="MyFirstWeb:war exploded"/>
-                </option>
-            </method>
-        </configuration>
-        <configuration name="01-onload-jingTai.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory"
-                       factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 6.0.39"
-                       ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
-            <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/event/01-onload-jingTai.html"/>
-            <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0"/>
-            <option name="UPDATING_POLICY" value="restart-server"/>
-            <deployment>
-                <artifact name="MyFirstWeb:war exploded">
-                    <settings>
-                        <option name="CONTEXT_PATH" value="/"/>
-                    </settings>
-                </artifact>
-            </deployment>
-            <server-settings>
-                <option name="BASE_DIRECTORY_NAME" value="_MyFirstWeb_2"/>
-            </server-settings>
-            <predefined_log_file id="Tomcat" enabled="true"/>
-            <predefined_log_file id="Tomcat Catalina" enabled="true"/>
-            <predefined_log_file id="Tomcat Manager" enabled="false"/>
-            <predefined_log_file id="Tomcat Host Manager" enabled="false"/>
-            <predefined_log_file id="Tomcat Localhost Access" enabled="false"/>
-            <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
-            <RunnerSettings RunnerId="Debug">
-                <option name="DEBUG_PORT" value="54269"/>
-            </RunnerSettings>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <method>
-                <option name="BuildArtifacts" enabled="true">
-                    <artifact name="MyFirstWeb:war exploded"/>
-                </option>
-            </method>
-        </configuration>
-        <configuration name="MyFirstWeb" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory"
-                       factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0.39" ALTERNATIVE_JRE_ENABLED="true"
-                       ALTERNATIVE_JRE_PATH="1.7">
-            <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3"/>
-            <option name="UPDATING_POLICY" value="restart-server"/>
-            <deployment>
-                <artifact name="MyFirstWeb:war exploded">
-                    <settings>
-                        <option name="CONTEXT_PATH" value="/"/>
-                    </settings>
-                </artifact>
-            </deployment>
-            <server-settings>
-                <option name="BASE_DIRECTORY_NAME" value="Unnamed_MyFirstWeb"/>
-            </server-settings>
-            <predefined_log_file id="Tomcat" enabled="true"/>
-            <predefined_log_file id="Tomcat Catalina" enabled="true"/>
-            <predefined_log_file id="Tomcat Manager" enabled="false"/>
-            <predefined_log_file id="Tomcat Host Manager" enabled="false"/>
-            <predefined_log_file id="Tomcat Localhost Access" enabled="false"/>
-            <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
-            <RunnerSettings RunnerId="Debug">
-                <option name="DEBUG_PORT" value="54269"/>
-            </RunnerSettings>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <method>
-                <option name="BuildArtifacts" enabled="true">
-                    <artifact name="MyFirstWeb:war exploded"/>
-                </option>
-            </method>
-        </configuration>
-        <configuration default="true" type="Applet" factoryName="Applet">
-            <option name="HTML_USED" value="false"/>
-            <option name="WIDTH" value="400"/>
-            <option name="HEIGHT" value="300"/>
-            <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy"/>
-            <module/>
-        </configuration>
-        <configuration default="true" type="Application" factoryName="Application">
-            <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
-            <option name="MAIN_CLASS_NAME"/>
-            <option name="VM_PARAMETERS"/>
-            <option name="PROGRAM_PARAMETERS"/>
-            <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$"/>
-            <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-            <option name="ALTERNATIVE_JRE_PATH"/>
-            <option name="ENABLE_SWING_INSPECTOR" value="false"/>
-            <option name="ENV_VARIABLES"/>
-            <option name="PASS_PARENT_ENVS" value="true"/>
-            <module name=""/>
-            <envs/>
-        </configuration>
-        <configuration default="true" type="JUnit" factoryName="JUnit">
-            <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
-            <module name=""/>
-            <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-            <option name="ALTERNATIVE_JRE_PATH"/>
-            <option name="PACKAGE_NAME"/>
-            <option name="MAIN_CLASS_NAME"/>
-            <option name="METHOD_NAME"/>
-            <option name="TEST_OBJECT" value="class"/>
-            <option name="VM_PARAMETERS" value="-ea"/>
-            <option name="PARAMETERS"/>
-            <option name="WORKING_DIRECTORY" value="$MODULE_DIR$"/>
-            <option name="ENV_VARIABLES"/>
-            <option name="PASS_PARENT_ENVS" value="true"/>
-            <option name="TEST_SEARCH_SCOPE">
-                <value defaultName="singleModule"/>
-            </option>
-            <envs/>
-            <patterns/>
-        </configuration>
-        <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-            <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
-            <option name="SCRATCH_FILE_ID" value="0"/>
-            <option name="MAIN_CLASS_NAME" value=""/>
-            <option name="VM_PARAMETERS" value=""/>
-            <option name="PROGRAM_PARAMETERS" value=""/>
-            <option name="WORKING_DIRECTORY" value=""/>
-            <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-            <option name="ALTERNATIVE_JRE_PATH"/>
-            <option name="ENABLE_SWING_INSPECTOR" value="false"/>
-            <option name="ENV_VARIABLES"/>
-            <option name="PASS_PARENT_ENVS" value="true"/>
-            <module name=""/>
-            <envs/>
-        </configuration>
-        <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory"
-                       factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0.39" ALTERNATIVE_JRE_ENABLED="true"
-                       ALTERNATIVE_JRE_PATH="1.7">
-            <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0"/>
-            <option name="UPDATING_POLICY" value="restart-server"/>
-            <deployment/>
-            <server-settings>
-                <option name="BASE_DIRECTORY_NAME" value="_MyFirstWeb_2"/>
-            </server-settings>
-            <predefined_log_file id="Tomcat" enabled="true"/>
-            <predefined_log_file id="Tomcat Catalina" enabled="true"/>
-            <predefined_log_file id="Tomcat Manager" enabled="false"/>
-            <predefined_log_file id="Tomcat Host Manager" enabled="false"/>
-            <predefined_log_file id="Tomcat Localhost Access" enabled="false"/>
-            <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
-            <RunnerSettings RunnerId="Debug">
-                <option name="DEBUG_PORT" value="54269"/>
-            </RunnerSettings>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-            <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-                <option name="USE_ENV_VARIABLES" value="true"/>
-                <STARTUP>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </STARTUP>
-                <SHUTDOWN>
-                    <option name="USE_DEFAULT" value="true"/>
-                    <option name="SCRIPT" value=""/>
-                    <option name="VM_PARAMETERS" value=""/>
-                    <option name="PROGRAM_PARAMETERS" value=""/>
-                </SHUTDOWN>
-            </ConfigurationWrapper>
-        </configuration>
-        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType"
-                       factoryName="Plugin">
-            <module name=""/>
-            <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea"/>
-            <option name="PROGRAM_PARAMETERS"/>
-            <predefined_log_file id="idea.log" enabled="true"/>
-        </configuration>
-        <configuration default="true" type="Remote" factoryName="Remote">
-            <option name="USE_SOCKET_TRANSPORT" value="true"/>
-            <option name="SERVER_MODE" value="false"/>
-            <option name="SHMEM_ADDRESS" value="javadebug"/>
-            <option name="HOST" value="localhost"/>
-            <option name="PORT" value="5005"/>
-        </configuration>
-        <configuration default="true" type="TestNG" factoryName="TestNG">
-            <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea"/>
-            <module name=""/>
-            <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false"/>
-            <option name="ALTERNATIVE_JRE_PATH"/>
-            <option name="SUITE_NAME"/>
-            <option name="PACKAGE_NAME"/>
-            <option name="MAIN_CLASS_NAME"/>
-            <option name="METHOD_NAME"/>
-            <option name="GROUP_NAME"/>
-            <option name="TEST_OBJECT" value="CLASS"/>
-            <option name="VM_PARAMETERS" value="-ea"/>
-            <option name="PARAMETERS"/>
-            <option name="WORKING_DIRECTORY" value="$MODULE_DIR$"/>
-            <option name="OUTPUT_DIRECTORY"/>
-            <option name="ANNOTATION_TYPE"/>
-            <option name="ENV_VARIABLES"/>
-            <option name="PASS_PARENT_ENVS" value="true"/>
-            <option name="TEST_SEARCH_SCOPE">
-                <value defaultName="singleModule"/>
-            </option>
-            <option name="USE_DEFAULT_REPORTERS" value="false"/>
-            <option name="PROPERTIES_FILE"/>
-            <envs/>
-            <properties/>
-            <listeners/>
-        </configuration>
-        <list size="3">
-            <item index="0" class="java.lang.String" itemvalue="Tomcat Server.MyFirstWeb"/>
-            <item index="1" class="java.lang.String" itemvalue="Tomcat Server.001-CSS与html结合使用的第一种方式.html"/>
-            <item index="2" class="java.lang.String" itemvalue="Tomcat Server.01-onload-jingTai.html"/>
-        </list>
-        <recent_temporary>
-            <list size="2">
-                <item index="0" class="java.lang.String" itemvalue="Tomcat Server.01-onload-jingTai.html"/>
-                <item index="1" class="java.lang.String" itemvalue="Tomcat Server.001-CSS与html结合使用的第一种方式.html"/>
-            </list>
-        </recent_temporary>
-    </component>
-    <component name="ShelveChangesManager" show_recycled="false">
-        <option name="remove_strategy" value="false"/>
-    </component>
-    <component name="TaskManager">
-        <task active="true" id="Default" summary="Default task">
-            <changelist id="03fc0df4-3a82-4e66-a0d3-95192de0c654" name="Default" comment=""/>
-            <created>1522926532887</created>
-            <option name="number" value="Default"/>
-            <option name="presentableId" value="Default"/>
-            <updated>1522926532887</updated>
-            <workItem from="1522926577660" duration="3000"/>
-            <workItem from="1522926646298" duration="1915000"/>
-            <workItem from="1523067978126" duration="1987000"/>
-            <workItem from="1523098602563" duration="10889000"/>
-            <workItem from="1523194907859" duration="2178000"/>
-            <workItem from="1523286727198" duration="3383000"/>
-            <workItem from="1523365949173" duration="5530000"/>
-            <workItem from="1523414445751" duration="19934000"/>
-            <workItem from="1523451539550" duration="5109000"/>
-            <workItem from="1523546625941" duration="625000"/>
-            <workItem from="1523784903337" duration="2244000"/>
-            <workItem from="1523969732718" duration="270000"/>
-            <workItem from="1524316378244" duration="1055000"/>
-            <workItem from="1534163934371" duration="1249000"/>
-            <workItem from="1534253219403" duration="70000"/>
-            <workItem from="1534336322074" duration="3197000"/>
-            <workItem from="1534422898347" duration="635000"/>
-        </task>
-        <servers/>
-    </component>
-    <component name="TimeTrackingManager">
-        <option name="totallyTimeSpent" value="60273000"/>
-    </component>
-    <component name="ToolWindowManager">
-        <frame x="-9" y="-9" width="1938" height="1048" extended-state="6"/>
-        <layout>
-            <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="3" side_tool="false" content_ui="tabs"/>
-            <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
-                         visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12"
-                         side_tool="false" content_ui="tabs"/>
-            <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="8" side_tool="false" content_ui="tabs"/>
-            <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="5" side_tool="false" content_ui="tabs"/>
-            <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="9" side_tool="false" content_ui="tabs"/>
-            <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="6" side_tool="false" content_ui="tabs"/>
-            <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="8" side_tool="true" content_ui="tabs"/>
-            <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false"
-                         internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true"
-                         weight="0.32894737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs"/>
-            <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="4" side_tool="false" content_ui="tabs"/>
-            <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="10" side_tool="false" content_ui="tabs"/>
-            <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="11" side_tool="false" content_ui="tabs"/>
-            <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="2" side_tool="false" content_ui="tabs"/>
-            <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="3" side_tool="false" content_ui="tabs"/>
-            <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED"
-                         visible="true" show_stripe_button="true" weight="0.21727468" sideWeight="0.4954751" order="0"
-                         side_tool="false" content_ui="combo"/>
-            <window_info id="Web" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED"
-                         visible="false" show_stripe_button="true" weight="0.26984978" sideWeight="0.5045249" order="9"
-                         side_tool="false" content_ui="tabs"/>
-            <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="5" side_tool="false" content_ui="tabs"/>
-            <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5"
-                         order="1" side_tool="false" content_ui="tabs"/>
-            <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5"
-                         order="1" side_tool="false" content_ui="tabs"/>
-            <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="4" side_tool="false" content_ui="tabs"/>
-            <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="7" side_tool="false" content_ui="tabs"/>
-            <window_info id="Favorites" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="10" side_tool="false" content_ui="tabs"/>
-            <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
-                         visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6"
-                         side_tool="false" content_ui="tabs"/>
-            <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="2" side_tool="false" content_ui="tabs"/>
-            <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0"
-                         side_tool="false" content_ui="tabs"/>
-            <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5"
-                         order="2" side_tool="false" content_ui="combo"/>
-            <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.49473685" sideWeight="0.5"
-                         order="5" side_tool="false" content_ui="tabs"/>
-            <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5"
-                         order="1" side_tool="false" content_ui="tabs"/>
-            <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED"
-                         type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7"
-                         side_tool="false" content_ui="tabs"/>
-            <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
-                         visible="false" show_stripe_button="true" weight="0.39364034" sideWeight="0.5" order="4"
-                         side_tool="false" content_ui="tabs"/>
-            <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED"
-                         visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3"
-                         side_tool="false" content_ui="tabs"/>
-        </layout>
-    </component>
-    <component name="TypeScriptGeneratedFilesManager">
-        <option name="version" value="1"/>
-    </component>
-    <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000"/>
-    </component>
-    <component name="XDebuggerManager">
-        <breakpoint-manager>
-            <breakpoints-dialog>
-                <breakpoints-dialog/>
-            </breakpoints-dialog>
-            <option name="time" value="13"/>
-        </breakpoint-manager>
-        <watches-manager/>
-    </component>
-    <component name="editorHistoryManager">
-        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-jingtai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
-                    <caret line="11" column="11" lean-forward="true" selection-start-line="11"
-                           selection-start-column="11" selection-end-line="11" selection-end-column="11"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="384">
-                    <caret line="16" column="0" lean-forward="false" selection-start-line="16"
-                           selection-start-column="0" selection-end-line="16" selection-end-column="0"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/day01/WebContent/01-hello.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                    <caret line="10" column="7" lean-forward="false" selection-start-line="10"
-                           selection-start-column="7" selection-end-line="10" selection-end-column="7"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/day01/WebContent/jsHelloWorld.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                    <caret line="14" column="9" lean-forward="false" selection-start-line="14"
-                           selection-start-column="9" selection-end-line="14" selection-end-column="9"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="384">
-                    <caret line="16" column="0" lean-forward="false" selection-start-line="16"
-                           selection-start-column="0" selection-end-line="16" selection-end-column="0"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/day01/WebContent/01-hello.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                    <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7"
-                           selection-end-line="10" selection-end-column="7"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/day01/WebContent/jsHelloWorld.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                    <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9"
-                           selection-end-line="14" selection-end-column="9"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="384">
-                    <caret line="16" column="0" lean-forward="false" selection-start-line="16"
-                           selection-start-column="0" selection-end-line="16" selection-end-column="0"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/1.js">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/day01/WebContent/01-hello.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                    <caret line="10" column="7" lean-forward="false" selection-start-line="10"
-                           selection-start-column="7" selection-end-line="10" selection-end-column="7"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2520">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/day01/WebContent/jsHelloWorld.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                    <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9"
-                           selection-end-line="14" selection-end-column="9"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/01-onload-dongTai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/01-onload-jingTai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                    <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35"
-                           selection-end-line="5" selection-end-column="35"/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
-                    <caret line="11" column="11" lean-forward="false" selection-start-line="11"
-                           selection-start-column="11" selection-end-line="11" selection-end-column="11"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-jingtai.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="504">
-                    <caret line="21" column="21" lean-forward="false" selection-start-line="21"
-                           selection-start-column="21" selection-end-line="21" selection-end-column="21"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2304">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                    <folding>
-                        <marker date="1534423496026" expanded="true" signature="47164:47177" ph="..."/>
-                    </folding>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                    <caret line="5" column="10" lean-forward="false" selection-start-line="5"
-                           selection-start-column="10" selection-end-line="5" selection-end-column="10"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-        <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo02.选择器/01.基本选择器.html">
-            <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                    <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0"
-                           selection-end-line="0" selection-end-column="0"/>
-                    <folding/>
-                </state>
-            </provider>
-        </entry>
-    </component>
-    <component name="masterDetails">
-        <states>
-            <state key="ProjectJDKs.UI">
-                <settings>
-                    <last-edited>1.7</last-edited>
-                    <splitter-proportions>
-                        <option name="proportions">
-                            <list>
-                                <option value="0.2"/>
-                            </list>
-                        </option>
-                    </splitter-proportions>
-                </settings>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MyFirstWeb:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03fc0df4-3a82-4e66-a0d3-95192de0c654" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="H:/gaosi/godfather/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="02.$的本质.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo01.入门/02.$的本质.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding />
             </state>
-        </states>
-    </component>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01.HelloWorld.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo01.入门/01.HelloWorld.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dom查询.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-48">
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02-onclick-dongTai.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02-onclick-jingtai.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/event/02-onclick-jingtai.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02-getElementsByName.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/document/02-getElementsByName.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/html/array.html" />
+        <option value="$PROJECT_DIR$/web/event/onload.html" />
+        <option value="$PROJECT_DIR$/web/event/01-onload-动态.html" />
+        <option value="$PROJECT_DIR$/web/event/01-onload-动态注册.html" />
+        <option value="$PROJECT_DIR$/web/event/1.js" />
+        <option value="$PROJECT_DIR$/web/event/01-onload-dongTai.html" />
+        <option value="$PROJECT_DIR$/web/event/02-onclick-dongTai.html" />
+        <option value="$PROJECT_DIR$/web/event/01-onload-jingTai.html" />
+        <option value="$PROJECT_DIR$/web/event/03-onblur.html" />
+        <option value="$PROJECT_DIR$/web/event/03-onblur-jingtai.html" />
+        <option value="$PROJECT_DIR$/web/event/03-onblur-dongTai.html" />
+        <option value="$PROJECT_DIR$/web/event/dom-Test.html" />
+        <option value="$PROJECT_DIR$/web/document/04-dom-selectTest.html" />
+        <option value="$PROJECT_DIR$/web/document/01-getElementById.html" />
+        <option value="$PROJECT_DIR$/web/document/03-getElementsByTagName.html" />
+        <option value="$PROJECT_DIR$/web/document/05-nodeAttributeAndMethod.html" />
+        <option value="$PROJECT_DIR$/web/day01/CSS/01-CSS-And-HTML.html" />
+        <option value="$PROJECT_DIR$/web/day01/CSS/002-css与html结合使用的第二种方式.html" />
+        <option value="$PROJECT_DIR$/web/05.DOM查询练习/style/css.css" />
+        <option value="$PROJECT_DIR$/web/document/02-getElementsByName.html" />
+        <option value="$PROJECT_DIR$/web/html/02-form-test.html" />
+        <option value="$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html" />
+        <option value="$PROJECT_DIR$/web/day01/WebContent/01-hello.html" />
+        <option value="$PROJECT_DIR$/web/day01/WebContent/jsHelloWorld.html" />
+        <option value="$PROJECT_DIR$/web/event/02-onclick-jingtai.html" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="255" />
+    <option name="y" value="341" />
+    <option name="width" value="1190" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyFirstWeb_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyFirstWeb_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="H:/IdeaProject/springboot01helloworld" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\MyWebTest\MyFirstWeb_01\web\jQuery_Demo" />
+      <recent name="H:\MyWebTest\MyFirstWeb\web" />
+      <recent name="H:\MyWebTest\MyFirstWeb\web\day01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.MyFirstWeb">
+    <configuration name="001-CSS与html结合使用的第一种方式.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 6.0.39" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/day01/WebContent/css/001-CSS与html结合使用的第一种方式.html" />
+      <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="MyFirstWeb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_MyFirstWeb_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54269" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MyFirstWeb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="01-onload-jingTai.html" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 6.0.39" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/event/01-onload-jingTai.html" />
+      <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="MyFirstWeb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_MyFirstWeb_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54269" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MyFirstWeb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="MyFirstWeb" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0.39" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="MyFirstWeb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MyFirstWeb" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54269" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MyFirstWeb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0.39" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_MyFirstWeb_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54269" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.MyFirstWeb" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.001-CSS与html结合使用的第一种方式.html" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.01-onload-jingTai.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Tomcat Server.01-onload-jingTai.html" />
+        <item index="1" class="java.lang.String" itemvalue="Tomcat Server.001-CSS与html结合使用的第一种方式.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03fc0df4-3a82-4e66-a0d3-95192de0c654" name="Default" comment="" />
+      <created>1522926532887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522926532887</updated>
+      <workItem from="1522926577660" duration="3000" />
+      <workItem from="1522926646298" duration="1915000" />
+      <workItem from="1523067978126" duration="1987000" />
+      <workItem from="1523098602563" duration="10889000" />
+      <workItem from="1523194907859" duration="2178000" />
+      <workItem from="1523286727198" duration="3383000" />
+      <workItem from="1523365949173" duration="5530000" />
+      <workItem from="1523414445751" duration="19934000" />
+      <workItem from="1523451539550" duration="5109000" />
+      <workItem from="1523546625941" duration="625000" />
+      <workItem from="1523784903337" duration="2244000" />
+      <workItem from="1523969732718" duration="270000" />
+      <workItem from="1524316378244" duration="1055000" />
+      <workItem from="1534163934371" duration="1249000" />
+      <workItem from="1534253219403" duration="70000" />
+      <workItem from="1534336322074" duration="3197000" />
+      <workItem from="1534422898347" duration="1658000" />
+      <workItem from="1534507671877" duration="661000" />
+      <workItem from="1534559556815" duration="2405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64362000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39364034" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21727468" sideWeight="0.4954751" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26984978" sideWeight="0.5045249" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49473685" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo01.入门/02.$的本质.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo01.入门/01.HelloWorld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo01.入门/02.$的本质.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo01.入门/01.HelloWorld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/02-onclick-jingtai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/day01/WebContent/01-hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/day01/WebContent/jsHelloWorld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/day01/WebContent/01-hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/day01/WebContent/jsHelloWorld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/day01/WebContent/01-hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/day01/WebContent/jsHelloWorld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/01-onload-dongTai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/01-onload-jingTai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="35" lean-forward="true" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1584">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo02.选择器/01.基本选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo01.入门/02.$的本质.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jQuery_Demo/Demo01.入门/01.HelloWorld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/05.DOM查询练习/dom查询.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/02-onclick-dongTai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/event/02-onclick-jingtai.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/document/02-getElementsByName.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
 </project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="godfather:war">
+    <output-path>H:/gaosi/godfather/target</output-path>
+    <root id="archive" name="godfather.war">
+      <element id="artifact" artifact-name="godfather:war exploded" />
+    </root>
+  </artifact>
+</component>

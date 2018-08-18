@@ -5,9 +5,21 @@
     <title>onclick静态</title>
     <script type="text/javascript">
         //静态注册即直接在标签上写事件名称
-        function onclickFun() {
+
+        //函数第一种定义格式
+        /*function onclickFun() {
+            alert("静态注册的onclick事件被调用了。。。");
+        }*/
+
+        //函数的第二种定义格式
+        var onclick = function () {
             alert("静态注册的onclick事件被调用了。。。");
         }
+
+        //第三种定义格式
+        //var onclick = new Function(alert("静态注册的onclick事件被调用了。。。"));
+
+        var a = [12];
     </script>
 </head>
 <body>
